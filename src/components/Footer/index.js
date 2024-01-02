@@ -106,8 +106,9 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          Designed By Arpit Pandey <br />I Promise The Wait Will Be Worth. <br/> 
-                                It's Just Started
+          Designed By Arpit Pandey <br />I Promise The Wait Will Be Worth.{" "}
+          <br />
+          It's Just Started.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
