@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arpit-2727",
   resume:
-    "https://drive.google.com/file/d/18drvhEbLU_0CVbp9UrCNOCvp38mZy0H4/view?usp=sharing",
+    "https://drive.google.com/file/d/1K3QjwTHmjW8GpRFXOmmt_p17bUZfIPaB/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/arpit_27p/",
   insta: "https://www.instagram.com/arpit_27p/",
 };
@@ -169,71 +169,55 @@ export const projects = [
   {
     id: 9,
     title: "Basic Shopping Website ",
-    description:
-      "A shopping App UI Designed Using Front End Skills",
+    description: "A shopping App UI Designed Using Front End Skills",
     image:
       "https://imgproxy.epicpxls.com/Ni9c1s_DRHaBggws6a_gaebN67Qvg_qskTNzrkndk4w/rs:fill:409:307:0/g:no/aHR0cHM6Ly9pdGVt/cy5lcGljcHhscy5j/b20vdXBsb2Fkcy9w/aG90by84ZDY1ZTI1/OTE4ZGU1M2ZjNmFi/YTNkNTA3NGUzMzQ5/NA.jpg",
-    tags: [
-      "HTML",
-      "CSS",
-    ],
+    tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/arpit-2727/Basic-Shopping-Website",
-    
   },
   {
     id: 0,
     title: "Basic Portfolio skelton ",
-    description:
-      "Developed A Basic Poertfolio skeleton using BootStrap",
+    description: "Developed A Basic Poertfolio skeleton using BootStrap",
     image:
       "https://s.tmimgcdn.com/scr/800x500/171300/codefolio-bootstrap-5-responsive-portfolio-landing-page_171352-original.jpg",
-    tags: ["HTML", "Bootstrap 5" , " CSS"],
+    tags: ["HTML", "Bootstrap 5", " CSS"],
     category: "web app",
     github: "https://github.com/arpit-2727/Portfolio-Using-Bootstrap",
   },
   {
     id: 1,
     title: "Password Generator",
-   
-    description:
-      "Designed a Password Generator using React Js",
+
+    description: "Designed a Password Generator using React Js",
     image:
       "data:image/png;base64,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",
-    tags: [
-      "React Js",
-    ],
+    tags: ["React Js"],
     category: "web app",
     github: "https://github.com/arpit-2727/Password-Generator",
   },
   {
     id: 2,
     title: "React Greeting",
-    description:
-      "Designed a Greeting Web app that greet according to time",
-    image:
-      "https://i.ytimg.com/vi/bLVPVdNo78Q/maxresdefault.jpg",
+    description: "Designed a Greeting Web app that greet according to time",
+    image: "https://i.ytimg.com/vi/bLVPVdNo78Q/maxresdefault.jpg",
     tags: ["React"],
-    
+
     github: "https://github.com/arpit-2727/greeting_React",
-    
   },
   {
     id: 7,
     title: "Quiz App",
-  
-    description:
-      "A  quiz app made with Javascript.",
+
+    description: "A  quiz app made with Javascript.",
     image:
       "https://file.forms.app/sitefile/Creating%20a%20quiz%20on%20forms.app.jpg",
-    tags: ["Javascript","HTML","CSS"],
-    
-    github: "https://github.com/arpit-2727/Quiz-Website-Using-Javascript",
-    
-  },
-  
-];
+    tags: ["Javascript", "HTML", "CSS"],
 
+    github: "https://github.com/arpit-2727/Quiz-Website-Using-Javascript",
+  },
+];
 
 export const TimeLineData = [
   { year: 2020, text: "Started my journey" },
