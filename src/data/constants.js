@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arpit-2727",
-  resume: "https://drive.google.com/file/d/1mnFbZm91602lGHE7O7Dky7zj6Sx1v5YA/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/16lXSM1MCN4_dEKZ2Ycm5X1kTw2Xnkcbl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/arpit_27p/",
   insta: "https://www.instagram.com/arpit_27p/",
 };
@@ -216,6 +216,30 @@ export const projects = [
     tags: ["Javascript", "HTML", "CSS"],
 
     github: "https://github.com/arpit-2727/Quiz-Website-Using-Javascript",
+  },
+  {
+    id: 6,
+    title: "Salon Demo",
+
+    description: "A  quiz app made with Javascript.",
+    image:
+      "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tags: ["Javascript", "HTML", "CSS"],
+
+    github: "https://github.com/arpit-2727/Salon-website-Demo",
+    webapp : "https://cosmosalondemo.netlify.app/"
+  },
+  {
+    id: 8,
+    title: "Freelance Salon Project",
+
+    description: "A Website Made by using HTML CSS JS BOOTSTRAP.",
+    image:
+      "https://media.istockphoto.com/id/1423513079/photo/luxury-hairdressing-and-beauty-salon-interior-with-chairs-mirrors-and-spotlights.webp?b=1&s=170667a&w=0&k=20&c=GTjjLjO1c9SdAGLLJHL3n5sEDdP8dpVXXl3ZpysmxeM=",
+    tags: ["Javascript", "HTML", "CSS" , "BOOTSTRAP"],
+
+    github: "https://github.com/arpit-2727/Freelance-Cosmo",
+    webapp : "https://cosmosalongkp.netlify.app/"
   },
 ];
 
