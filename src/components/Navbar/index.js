@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu,  MobileLink } from './NavbarStyledComponent'
 import { DiCssdeck } from 'react-icons/di';
@@ -14,7 +15,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Welcome</Span>
+            <DiCssdeck size="3rem" /> <Span>ARPIT PANDEY</Span>
           </a>
         </NavLogo>
         <MobileIcon>
