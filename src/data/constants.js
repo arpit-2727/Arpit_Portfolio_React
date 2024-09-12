@@ -268,7 +268,7 @@ export const projects = [
     title: "Xiaomi Clone Website",
 
     description:
-      " The Xiaomi Clone Website is a project that involves creating a replica of the official Xiaomi website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website. ",
+      "The Xiaomi Clone Website is a project that involves creating a replica of the official Xiaomi website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website. ",
     image:
       " https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
     tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE"],
