@@ -10,7 +10,8 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arpit-2727",
-  resume: "https://drive.google.com/file/d/1YJLaza6UmoQIlUglPSov7RN0NoagICSp/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1YJLaza6UmoQIlUglPSov7RN0NoagICSp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/arpit_27p/",
   insta: "https://www.instagram.com/arpit_27p/",
 };
@@ -81,10 +82,6 @@ export const skills = [
         name: "MySQL",
         image:
           "https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png",
-      },
-      {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
       },
       {
         name: "MongoDB",
@@ -196,16 +193,17 @@ export const projects = [
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/arpit-2727/Password-Generator",
-    webapp :"password-generator-neon-alpha.vercel.app",
+    webapp: "password-generator-neon-alpha.vercel.app",
   },
   {
     id: 2,
     title: "React Greeting",
     description: "Designed a Greeting Web app that greet according to time",
-    image: "https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif",
+    image:
+      "https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif",
     tags: ["React"],
     github: "https://github.com/arpit-2727/greeting_React",
-    webapp : "greeting-react-mu.vercel.app",
+    webapp: "greeting-react-mu.vercel.app",
   },
   {
     id: 7,
@@ -217,7 +215,7 @@ export const projects = [
     tags: ["Javascript", "HTML", "CSS"],
 
     github: "https://github.com/arpit-2727/Quiz-Website-Using-Javascript",
-    webapp : "quiz-website-using-javascript.vercel.app",
+    webapp: "quiz-website-using-javascript.vercel.app",
   },
   {
     id: 6,
@@ -249,7 +247,8 @@ export const projects = [
 
     description:
       "A Website Made by using NEXT Js , Major Project Of College - I'm Front End Developer Of this Project",
-    image: "https://camo.envatousercontent.com/1dc50fbc690b9c735f3686a9e6512eb37d64197a/68747470733a2f2f6576656e746c792e6d696b61646f2d7468656d65732e636f6d2f70726f66696c655f696d616765732f30312e676966",
+    image:
+      "https://camo.envatousercontent.com/1dc50fbc690b9c735f3686a9e6512eb37d64197a/68747470733a2f2f6576656e746c792e6d696b61646f2d7468656d65732e636f6d2f70726f66696c655f696d616765732f30312e676966",
     tags: [
       "Javascript",
       "HTML",
@@ -263,6 +262,19 @@ export const projects = [
 
     github: "https://github.com/arpit-2727/evently",
     webapp: "evently-delta-three.vercel.app",
+  },
+  {
+    id: 10,
+    title: "Xiaomi Clone Website",
+
+    description:
+      " The Xiaomi Clone Website is a project that involves creating a replica of the official Xiaomi website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website. ",
+    image:
+      " https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+    tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE"],
+
+    github: "https://github.com/arpit-2727/MI-UI-Clone",
+    webapp: "mi-ui-clone.vercel.app",
   },
 ];
 
