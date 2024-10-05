@@ -129,6 +129,26 @@ export const skills = [
     ],
   },
 ];
+export const experiences = [
+  {
+    id: 0,
+    img: "https://www.f6s.com/content-resource/profiles/3764267_th1.jpg",
+    role: "ReactJs Intern",
+    company: "LinkOSM Pvt Ltd.",
+    date: "Aug 2024 - Oct 2024",
+    desc: " Working on various Frontend Technologies and learned about lot of stuffs ",
+    skills: [
+     "ReactJs",
+      "JavaScript",
+    "Next Js",
+    "HTML5",
+    "CSS3",
+    "Styled-Components",
+    "Redux",
+    ],
+    doc: "https://www.f6s.com/content-resource/profiles/3764267_th1.jpg",
+  },
+]
 
 export const education = [
   {
@@ -269,11 +289,37 @@ export const projects = [
     description:
       "The Xiaomi Clone Website is a project that involves creating a replica of the official Xiaomi website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website. ",
     image:
-      " https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      "https://en.logodownload.org/wp-content/uploads/2019/05/xiaomi-logo-51.png",
     tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE"],
 
     github: "https://github.com/arpit-2727/MI-UI-Clone",
     webapp: "mi-ui-clone.vercel.app",
+  },
+  {
+    id: 11,
+    title: "Keep Paste - A Google Keep Notes Clone",
+
+    description:
+      "The Keep Paste - A Google Keep Notes Clone is a project that involves creating a replica of the official Google Keep website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website. ",
+    image:
+      " https://cdn-icons-png.flaticon.com/512/2965/2965358.png",
+    tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE","REDUX" , "ROUTER"],
+
+    github: "https://github.com/arpit-2727/Keep_Paste",
+    webapp: "keep-paste-arpit.vercel.app",
+  },
+  {
+    id: 11,
+    title: "LinkOSM - Internship Training Project",
+
+    description:
+      "  The LinkOSM - Internship Training Project is a project that involves creating a replica of the official LinkOSM website using ReactJs. The goal of this project is to demonstrate proficiency in front-end development, specifically in ReactJs, by recreating a complex website.",
+    image:
+      "https://www.f6s.com/content-resource/profiles/3764267_th1.jpg",
+    tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE","REDUX" , "ROUTER","STYLED-COMPONENTS"],
+
+    github: "https://github.com/linkosm/linkosmv3",
+    webapp: "https://github.com/linkosm/linkosmv3",
   },
 ];
 
