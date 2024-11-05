@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arpit-2727",
-  resume: "https://drive.google.com/file/d/1YJLaza6UmoQIlUglPSov7RN0NoagICSp/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1AK2s4yV9Tmn1dczX-jqAYiOTo3koC66H/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/arpit_27p/",
   insta: "https://www.instagram.com/arpit_27p/",
 };
@@ -181,7 +181,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "Basic Shopping Website ",
     description: "A shopping App UI Designed Using Front End Skills",
     image:
@@ -192,7 +192,7 @@ export const projects = [
     webapp: "https://shoppping-ui-arpit.netlify.app",
   },
   {
-    id: 0,
+    id: 1,
     title: "Basic Portfolio skelton ",
     description: "Developed A Basic Poertfolio skeleton using BootStrap",
     image:
@@ -203,7 +203,7 @@ export const projects = [
     webapp: "portfolio-using-bootstrap-lilac.vercel.app",
   },
   {
-    id: 1,
+    id: 2,
     title: "Password Generator",
 
     description: "Designed a Password Generator using React Js",
@@ -215,7 +215,7 @@ export const projects = [
     webapp: "password-generator-neon-alpha.vercel.app",
   },
   {
-    id: 2,
+    id: 3,
     title: "React Greeting",
     description: "Designed a Greeting Web app that greet according to time",
     image:
@@ -225,7 +225,7 @@ export const projects = [
     webapp: "greeting-react-mu.vercel.app",
   },
   {
-    id: 7,
+    id: 4,
     title: "Quiz App",
 
     description: "A  quiz app made with Javascript.",
@@ -237,7 +237,7 @@ export const projects = [
     webapp: "quiz-website-using-javascript.vercel.app",
   },
   {
-    id: 6,
+    id: 5,
     title: "Salon Demo",
 
     description: "Salon Demo for Project",
@@ -249,7 +249,7 @@ export const projects = [
     webapp: "https://cosmosalondemo.netlify.app/",
   },
   {
-    id: 8,
+    id: 6,
     title: "Freelance Salon Project",
 
     description: "A Website Made by using HTML CSS JS BOOTSTRAP.",
@@ -261,7 +261,7 @@ export const projects = [
     webapp: "https://cosmosalongkp.netlify.app/",
   },
   {
-    id: 9,
+    id: 7,
     title: "Event-Tracking Website",
 
     description:
@@ -283,7 +283,7 @@ export const projects = [
     webapp: "evently-delta-three.vercel.app",
   },
   {
-    id: 10,
+    id: 8,
     title: "Xiaomi Clone Website",
 
     description:
@@ -296,7 +296,7 @@ export const projects = [
     webapp: "mi-ui-clone.vercel.app",
   },
   {
-    id: 11,
+    id: 9,
     title: "Keep Paste - A Google Keep Notes Clone",
 
     description:
@@ -309,7 +309,7 @@ export const projects = [
     webapp: "keep-paste-arpit.vercel.app",
   },
   {
-    id: 11,
+    id: 10,
     title: "LinkOSM - Internship Training Project",
 
     description:
@@ -320,6 +320,19 @@ export const projects = [
 
     github: "https://github.com/linkosm/linkosmv3",
     webapp: "https://github.com/linkosm/linkosmv3",
+  },
+  {
+    id: 11,
+    title: "CURRENCY CONVERTER",
+
+    description:
+      " The Currency Converter is a project that involves creating a currency converter using ReactJs. The goal of this project is to demonstrate proficiency in front-end development by recreating a complex website.",
+    image:
+      "https://fueler.io/storage/users/timeline_image/sandipan_1613133196.png",
+    tags: ["JAVASCRIPT" , "REACTJS" , "TAILWIND CSS" , "FETCH API"],
+
+    github: "https://github.com/arpit-2727/Currency-Converter",
+    webapp: "https://currency-converter-zeta-hazel.vercel.app/",
   },
 ];
 
