@@ -200,7 +200,7 @@ export const projects = [
     tags: ["HTML", "Bootstrap 5", " CSS"],
     category: "web app",
     github: "https://github.com/arpit-2727/Portfolio-Using-Bootstrap",
-    webapp: "portfolio-using-bootstrap-lilac.vercel.app",
+    webapp: "https://portfolio-using-bootstrap-lilac.vercel.app",
   },
   {
     id: 2,
@@ -212,7 +212,7 @@ export const projects = [
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/arpit-2727/Password-Generator",
-    webapp: "password-generator-neon-alpha.vercel.app",
+    webapp: "https://password-generator-neon-alpha.vercel.app",
   },
   {
     id: 3,
@@ -222,7 +222,7 @@ export const projects = [
       "https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif",
     tags: ["React"],
     github: "https://github.com/arpit-2727/greeting_React",
-    webapp: "greeting-react-mu.vercel.app",
+    webapp: "https://greeting-react-mu.vercel.app",
   },
   {
     id: 4,
@@ -234,7 +234,7 @@ export const projects = [
     tags: ["Javascript", "HTML", "CSS"],
 
     github: "https://github.com/arpit-2727/Quiz-Website-Using-Javascript",
-    webapp: "quiz-website-using-javascript.vercel.app",
+    webapp: "https://quiz-website-using-javascript.vercel.app",
   },
   {
     id: 5,
@@ -280,7 +280,7 @@ export const projects = [
     ],
 
     github: "https://github.com/arpit-2727/evently",
-    webapp: "evently-delta-three.vercel.app",
+    webapp: "https://evently-delta-three.vercel.app",
   },
   {
     id: 8,
@@ -293,7 +293,7 @@ export const projects = [
     tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE"],
 
     github: "https://github.com/arpit-2727/MI-UI-Clone",
-    webapp: "mi-ui-clone.vercel.app",
+    webapp: "https://mi-ui-clone.vercel.app",
   },
   {
     id: 9,
@@ -306,7 +306,7 @@ export const projects = [
     tags: ["Javascript", "HTML", "CSS", "ReactJs", "AGILE","REDUX" , "ROUTER"],
 
     github: "https://github.com/arpit-2727/Keep_Paste",
-    webapp: "keep-paste-arpit.vercel.app",
+    webapp: "https://keep-paste-arpit.vercel.app",
   },
   {
     id: 10,
