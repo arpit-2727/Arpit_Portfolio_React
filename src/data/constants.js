@@ -1,7 +1,7 @@
 export const Bio = {
   name: "ARPIT KUMAR PANDEY",
   roles: [
-    "Full Stack Developer",
+    "Front-End Developer",
     "App Developer",
     "UI/UX Designer",
     "Programmer",
