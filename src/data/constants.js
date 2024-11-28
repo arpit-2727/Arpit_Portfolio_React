@@ -156,8 +156,8 @@ export const education = [
     img: "https://images.collegedunia.com/public/college_data/images/campusimage/1478067632CAM2.JPG",
     school: "Institute of Technology  And Management Gida Gorakhpur",
     date: "DEC 2020 - JUNE 2024",
-    grade: "8.1 CGPA AGGREGATE",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at ITM GIDA GORAKHPUR,. I have completed 7 semesters and have a CGPA of 8.1. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "7.68 CGPA A",
+    desc: "I Completed Bachelor's degree in Computer Science and Engineering at ITM GIDA GORAKHPUR.I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
   },
   {
     id: 1,
