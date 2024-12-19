@@ -339,7 +339,7 @@ export const projects = [
   "id": 12,
   "title": "LinkedIn Clone",
   "description": "The LinkedIn Clone is a project aimed at replicating the core functionalities of LinkedIn using ReactJS. The goal of this project is to showcase proficiency in front-end development and demonstrate the ability to recreate a complex, professional networking website.",
-  "image": "URL_to_project_image_or_placeholder",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
   "tags": ["ReactJS", "Frontend Development", "UI/UX" , "Redux"],
   "github": "https://github.com/arpit-2727/Linkedin_clone",
   "webapp": "https://arpitlinkedin.vercel.app/"
