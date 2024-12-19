@@ -334,7 +334,7 @@ export const projects = [
     github: "https://github.com/arpit-2727/Currency-Converter",
     webapp: "https://currency-converter-zeta-hazel.vercel.app/",
   },
-  {
+  
 {
   "id": 12,
   "title": "LinkedIn Clone",
