@@ -130,8 +130,24 @@ export const skills = [
   },
 ];
 export const experiences = [
-  {
+   {
     id: 0,
+    img: "https://www.globallogic.com/wp-content/uploads/2021/11/Symbol-29.png",
+    role: "Associate Analyst",
+    company: "GlobalLogic - A Hitachi Company",
+    date: "Dec 2024 - Present",
+    desc: "Working as a Content Engineer on Google Diffusion AI Model, increased productivity by 200% on regular basis with excellent quality.",
+    skills: [
+     "Analysis",
+      "AI Model",
+    "Data Filter",
+    "Data Handling",
+    
+    ],
+    doc: "https://www.globallogic.com/wp-content/uploads/2021/11/Wordmark-1.png",
+  },
+{
+    id: 1,
     img: "https://www.f6s.com/content-resource/profiles/3764267_th1.jpg",
     role: "ReactJs Intern",
     company: "LinkOSM Pvt Ltd.",
